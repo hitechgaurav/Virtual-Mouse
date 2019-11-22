@@ -1,3 +1,5 @@
+#use Blue color tape for finger movement identification by webcam
+
 import cv2
 import numpy as np
 from pynput.mouse import Button, Controller
